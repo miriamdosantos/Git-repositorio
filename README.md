@@ -1,3 +1,4 @@
 # Git-repositorio
 
-# Colaborando
+# Colaboradores
+## Miriam
